@@ -16,8 +16,8 @@ author: Venu Kannuri
 navbar-links:
   About Me: "aboutme"
   Resume:
-    - Resume(Pdf): ""
-    - Resume(Word - Docx): ""
+    - Resume(Pdf): "/docs/venukannuri.pdf"
+    - Resume(Word - Docx): "/docs/venukannuri.docx"
   Learning: "/learning"
   Portfolio: "/portfolio"
   Contact: "/aboutme"
