@@ -16,8 +16,8 @@ author: Venu Kannuri
 navbar-links:
   About Me: "aboutme"
   Resume:
-    - Resume(Pdf): "https://beautifuljekyll.com"
-    - Resume(Word - Docx): "https://www.markdowntutorial.com/"
+    - Resume(Pdf): ""
+    - Resume(Word - Docx): ""
   Learning: "/learning"
   Portfolio: "/portfolio"
   Contact: "/aboutme"
