@@ -18,7 +18,7 @@ navbar-links:
   Resume:
     - Resume(Pdf): "https://beautifuljekyll.com"
     - Resume(Word - Docx): "https://www.markdowntutorial.com/"
-  Learning: "https://deanattali.com"
+  Learning: "/learning"
   Portfolio: "/portfolio"
   Contact: "/aboutme"
 
@@ -40,26 +40,27 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  patreon: DeanAttali
+  email: "iamvkannuri@gmail.com"
+  linkedin: venukannuri
+  github: Venukannuri
+  twitter: imVKannuri
+  bitbucket: "VenuKannuri"
+#  instagram: unq_kank
+#  stackoverflow: "314568037/venukannuri"
+#  patreon: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  facebook: deanattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  snapchat: yourname
+#  youtube: user/yourname
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+#  mastodon: instance.url/@yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
@@ -72,7 +73,7 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
