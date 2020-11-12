@@ -75,7 +75,7 @@ share-links-active:
   twitter: true
   facebook: false
   linkedin: true
-  vk: false
+
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -228,3 +228,70 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+
+###########################################
+
+## Site settings
+skills:
+  subheading: "Full Stack Web Application Developer. Creator of <a href='https://nerdfonts.com/' rel='noreferrer' target='_blank' >Nerd Fonts</a> and <a href='https://github.com/ryanoasis/vim-devicons/' rel='noreferrer' target='_blank'>VimDevIcons</a>"
+  explanation: "The following ratings are my own personal and honest ratings of my experience and skill level on various subjects:"
+  current_focus:
+    - title: "JavaScript"
+      devicon: "nf-dev-javascript_badge"
+    - title: "React"
+      devicon: "nf-dev-react"
+    - title: "Redux"
+      devicon: "nf-custom-electron" # close enough for now
+    - title: "Docker"
+      devicon: "nf-linux-docker"
+    - title: "Webpack"
+      devicon: "nf-mdi-webpack"
+    - title: "Sass"
+      devicon: "nf-dev-sass"
+    - title: "Python"
+      devicon: "nf-dev-python"
+    - title: "Vim"
+      devicon: "nf-dev-vim"
+    - title: "Fonts"
+      devicon: "nf-fa-font"
+  technical:
+    - title: "CSS"
+      devicon: "nf-dev-css3"
+    - title: "Git"
+      devicon: "nf-dev-git"
+    - title: "HTML"
+      devicon: "nf-dev-code"
+    - title: "Python"
+      devicon: "nf-dev-python"
+    - title: "JavaScript"
+      devicon: "nf-dev-javascript_badge"
+    - title: "AngularJS"
+      devicon: "nf-dev-angular"
+    - title: "jQuery"
+      devicon: "nf-dev-jquery"
+    - title: "PHP"
+      devicon: "nf-dev-php"
+    - title: "Java"
+      devicon: "nf-dev-java"
+    - title: "Vim"
+      devicon: "nf-dev-vim"
+    - title: "Bash"
+      devicon: "nf-dev-terminal"
+    - title: "MySQL"
+      devicon: "nf-dev-mysql"
+    - title: "Symfony"
+      devicon: "nf-dev-symfony_badge"
+    - title: "GitHub"
+      devicon: "nf-dev-github"
+    - title: "Jira"
+      devicon: "nf-dev-jira"
+    - title: "Subversion"
+      devicon: "nf-oct-diff"
+    - title: "Grunt"
+      devicon: "nf-dev-grunt"
+    - title: "Eclipse"
+      devicon: "nf-dev-eclipse"
+    - title: "Visual Studio"
+      devicon: "nf-dev-visualstudio"
+    - title: "Jekyll"
+      devicon: "nf-dev-jekyll_small"

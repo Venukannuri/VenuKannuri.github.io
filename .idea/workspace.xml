@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e5ab5ab-20f8-429d-9865-b9d882b0c315" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/VenuKannuri.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/devicons/css/devicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/devicons/css/devicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/devicons/css/devicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/devicons/fonts/devicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/devicons/fonts/devicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/devicons/fonts/devicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/devicons/fonts/devicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/cbpAnimatedHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/cbpAnimatedHeader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/contact_me_static.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/freelancer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-1.11.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kAIOs7qvCOLHpwuYGKnCToWOum" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e5ab5ab-20f8-429d-9865-b9d882b0c315" name="Default Changelist" comment="" />
+      <created>1605136940409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605136940409</updated>
+      <workItem from="1605136942169" duration="1006000" />
+      <workItem from="1605155692711" duration="7000" />
+      <workItem from="1605155718413" duration="6080000" />
+      <workItem from="1605166600822" duration="4855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="136" key="RollbackChangesDialog" timestamp="1605171652557">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="492" y="136" key="RollbackChangesDialog/0.23.1440.809@0.23.1440.809" timestamp="1605171652557" />
+    <state x="211" y="66" key="SettingsEditor" timestamp="1605167557751">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="211" y="66" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1605167557751" />
+    <state x="408" y="59" width="604" height="735" key="find.popup" timestamp="1605171142238">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="408" y="59" width="604" height="735" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1605171142238" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1605168236556">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1440.809@0.23.1440.809" timestamp="1605168236556" />
+    <state x="375" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1605172430599">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="375" y="156" width="670" height="676" key="search.everywhere.popup/0.23.1440.809@0.23.1440.809" timestamp="1605172430599" />
+  </component>
+</project>
