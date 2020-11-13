@@ -19,11 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e5ab5ab-20f8-429d-9865-b9d882b0c315" name="Default Changelist" comment="">
+    <list default="true" id="2e5ab5ab-20f8-429d-9865-b9d882b0c315" name="Default Changelist" comment="-- updated portfolio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/avatar-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bgimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/path.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thumb.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +47,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kAIOs7qvCOLHpwuYGKnCToWOum" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -68,7 +78,17 @@
       <workItem from="1605155692711" duration="7000" />
       <workItem from="1605155718413" duration="6080000" />
       <workItem from="1605166600822" duration="4855000" />
+      <workItem from="1605250720027" duration="163000" />
+      <workItem from="1605251033161" duration="1854000" />
     </task>
+    <task id="LOCAL-00001" summary="-- updated portfolio">
+      <created>1605196337966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605196337966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,15 +106,25 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="-- updated portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="-- updated portfolio" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="333" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605192292489">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="333" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.809@0.23.1440.809" timestamp="1605192292489" />
-    <state x="492" y="136" key="RollbackChangesDialog" timestamp="1605188948040">
+    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605246978997">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
+    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.809@0.23.1440.809" timestamp="1605246978997" />
+    <state x="492" y="137" key="RollbackChangesDialog" timestamp="1605252991100">
+      <screen x="0" y="25" width="1440" height="802" />
+    </state>
     <state x="492" y="136" key="RollbackChangesDialog/0.23.1440.809@0.23.1440.809" timestamp="1605188948040" />
+    <state x="492" y="137" key="RollbackChangesDialog/0.25.1440.802@0.25.1440.802" timestamp="1605252991100" />
     <state x="211" y="66" key="SettingsEditor" timestamp="1605167557751">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
@@ -103,17 +133,17 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="100" y="123" width="1240" height="608" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.809@0.23.1440.809" timestamp="1605196058199" />
-    <state x="408" y="59" width="604" height="735" key="find.popup" timestamp="1605196085950">
+    <state x="408" y="59" width="604" height="735" key="find.popup" timestamp="1605197834697">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="408" y="59" width="604" height="735" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1605196085950" />
+    <state x="408" y="59" width="604" height="735" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1605197834697" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1605168236556">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.23.1440.809@0.23.1440.809" timestamp="1605168236556" />
-    <state x="375" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1605172430599">
+    <state x="375" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1605246097031">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="375" y="156" width="670" height="676" key="search.everywhere.popup/0.23.1440.809@0.23.1440.809" timestamp="1605172430599" />
+    <state x="375" y="156" width="670" height="676" key="search.everywhere.popup/0.23.1440.809@0.23.1440.809" timestamp="1605246097031" />
   </component>
 </project>

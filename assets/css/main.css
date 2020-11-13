@@ -170,6 +170,8 @@ section .intro-text .skills {
     }
 }
 
+
+
 /* greater than or equal to 768px */
 @media(min-width:768px) {
     .navbar-fixed-top {
