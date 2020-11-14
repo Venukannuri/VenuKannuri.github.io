@@ -21,15 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e5ab5ab-20f8-429d-9865-b9d882b0c315" name="Default Changelist" comment="-- updated portfolio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/avatar-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bgimage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/path.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/thumb.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +53,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css/nerd-fonts/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,6 +91,7 @@
       <workItem from="1605166600822" duration="4855000" />
       <workItem from="1605250720027" duration="163000" />
       <workItem from="1605251033161" duration="1854000" />
+      <workItem from="1605330860813" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="-- updated portfolio">
       <created>1605196337966</created>
@@ -133,17 +145,19 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="100" y="123" width="1240" height="608" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.809@0.23.1440.809" timestamp="1605196058199" />
-    <state x="408" y="59" width="604" height="735" key="find.popup" timestamp="1605197834697">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state x="408" y="61" width="604" height="726" key="find.popup" timestamp="1605332227985">
+      <screen x="0" y="25" width="1440" height="798" />
     </state>
     <state x="408" y="59" width="604" height="735" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1605197834697" />
+    <state x="408" y="61" width="604" height="726" key="find.popup/0.25.1440.798@0.25.1440.798" timestamp="1605332227985" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1605168236556">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.23.1440.809@0.23.1440.809" timestamp="1605168236556" />
-    <state x="375" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1605246097031">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state x="375" y="156" width="670" height="667" key="search.everywhere.popup" timestamp="1605331872024">
+      <screen x="0" y="25" width="1440" height="798" />
     </state>
     <state x="375" y="156" width="670" height="676" key="search.everywhere.popup/0.23.1440.809@0.23.1440.809" timestamp="1605246097031" />
+    <state x="375" y="156" width="670" height="667" key="search.everywhere.popup/0.25.1440.798@0.25.1440.798" timestamp="1605331872024" />
   </component>
 </project>
