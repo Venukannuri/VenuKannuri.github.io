@@ -23,18 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e5ab5ab-20f8-429d-9865-b9d882b0c315" name="Default Changelist" comment="updated skill set">
-      <change afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/contact-me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mdfiles/resume.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social-networks-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social-networks-links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,11 +232,11 @@
       <screen x="0" y="25" width="1440" height="790" />
     </state>
     <state x="126" y="39" key="new project wizard/0.25.1440.790@0.25.1440.790" timestamp="1605347018257" />
-    <state x="375" y="155" width="670" height="661" key="search.everywhere.popup" timestamp="1605354703211">
+    <state x="375" y="155" width="670" height="661" key="search.everywhere.popup" timestamp="1605355504575">
       <screen x="0" y="25" width="1440" height="790" />
     </state>
     <state x="375" y="156" width="670" height="676" key="search.everywhere.popup/0.23.1440.809@0.23.1440.809" timestamp="1605246097031" />
-    <state x="375" y="155" width="670" height="661" key="search.everywhere.popup/0.25.1440.790@0.25.1440.790" timestamp="1605354703211" />
+    <state x="375" y="155" width="670" height="661" key="search.everywhere.popup/0.25.1440.790@0.25.1440.790" timestamp="1605355504575" />
     <state x="375" y="156" width="670" height="666" key="search.everywhere.popup/0.25.1440.796@0.25.1440.796" timestamp="1605337906426" />
     <state x="375" y="156" width="670" height="667" key="search.everywhere.popup/0.25.1440.798@0.25.1440.798" timestamp="1605337766150" />
     <state x="375" y="156" width="670" height="669" key="search.everywhere.popup/0.25.1440.800@0.25.1440.800" timestamp="1605337520753" />
