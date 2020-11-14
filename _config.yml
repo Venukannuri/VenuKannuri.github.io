@@ -20,7 +20,7 @@ navbar-links:
     - Resume(Word - Docx): "/docs/venukannuri.docx"
   Learning: "/learning"
   Portfolio: "/portfolio"
-  Contact: "/aboutme"
+#  Contact: "/portfolio"
 
 # --- Logo --- #
 
@@ -33,7 +33,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: "/assets/img/avatar-venu.png"
 
 # --- Footer social media links --- #
 
@@ -44,12 +44,11 @@ social-network-links:
   linkedin: venukannuri
   github: Venukannuri
   twitter: imVKannuri
-  bitbucket: "VenuKannuri"
-#  instagram: unq_kank
-#  stackoverflow: "314568037/venukannuri"
+  instagram: iamvkannuri
+  stackoverflow: "314568037/venukannuri"
 #  patreon: yourname
 #  reddit: yourname
-#  facebook: deanattali
+#  facebook: yourname
 #  xing: yourname
 #  snapchat: yourname
 #  youtube: user/yourname
@@ -241,7 +240,7 @@ skills:
     - title: "Python"
       devicon: "nf-dev-python"
     - title: "JavaScript"
-      devicon: "nf-dev-javascript_badge"
+      devicon: "nf-dev-javascript"
     - title: "React"
       devicon: "nf-dev-react"
     - title: "Redux"
@@ -270,7 +269,7 @@ skills:
     - title: "Python"
       devicon: "nf-dev-python"
     - title: "JavaScript"
-      devicon: "nf-dev-javascript_badge"
+      devicon: "nf-dev-javascript"
     - title: "AngularJS"
       devicon: "nf-dev-angular"
     - title: "jQuery"
@@ -310,3 +309,9 @@ color:
   secondary-dark: 233140 #A2122F
   secondary-light: D1D1D1
 
+
+social-contact:
+  - title: envelope
+    url: "mailto:ryan@ryanlmcintyre.com"
+  - title: linkedin
+    url: https://www.linkedin.com/in/ryanlmcintyre/

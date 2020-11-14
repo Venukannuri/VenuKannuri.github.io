@@ -627,3 +627,8 @@ footer a, footer a:hover, footer a:visited {
     width: 16.66666667%;
     float: left;
 }
+
+. {
+    line-height: 30px;
+}
+
