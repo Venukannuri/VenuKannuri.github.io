@@ -79,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "VenuKannuri.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -295,3 +295,12 @@ skills:
       devicon: "nf-dev-visualstudio"
     - title: "Jekyll"
       devicon: "nf-dev-jekyll_small"
+
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: "006156" #00897c #18bc9c #80B3FF
+  primary-rgb: "0,97,86" #"24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+  secondary-light: D1D1D1

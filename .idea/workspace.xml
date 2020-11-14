@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,8 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e5ab5ab-20f8-429d-9865-b9d882b0c315" name="Default Changelist" comment="-- updated portfolio">
+    <list default="true" id="2e5ab5ab-20f8-429d-9865-b9d882b0c315" name="Default Changelist" comment="--fixed nerd font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +98,7 @@
       <workItem from="1605166600822" duration="4855000" />
       <workItem from="1605250720027" duration="163000" />
       <workItem from="1605251033161" duration="1854000" />
-      <workItem from="1605330860813" duration="1308000" />
+      <workItem from="1605330860813" duration="7767000" />
     </task>
     <task id="LOCAL-00001" summary="-- updated portfolio">
       <created>1605196337966</created>
@@ -100,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605196337966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="--fixed nerd font">
+      <created>1605332456882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605332456882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="-- updated portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="-- updated portfolio" />
+    <MESSAGE value="--fixed nerd font" />
+    <option name="LAST_COMMIT_MESSAGE" value="--fixed nerd font" />
   </component>
   <component name="WindowStateProjectService">
     <state x="333" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605192292489">
@@ -141,23 +156,32 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="211" y="66" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1605167557751" />
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1605332597616">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.25.1440.798@0.25.1440.798" timestamp="1605332597616" />
     <state x="100" y="123" width="1240" height="608" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605196058199">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="100" y="123" width="1240" height="608" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.809@0.23.1440.809" timestamp="1605196058199" />
-    <state x="408" y="61" width="604" height="726" key="find.popup" timestamp="1605332227985">
-      <screen x="0" y="25" width="1440" height="798" />
+    <state x="408" y="61" width="604" height="725" key="find.popup" timestamp="1605338262214">
+      <screen x="0" y="25" width="1440" height="796" />
     </state>
     <state x="408" y="59" width="604" height="735" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1605197834697" />
-    <state x="408" y="61" width="604" height="726" key="find.popup/0.25.1440.798@0.25.1440.798" timestamp="1605332227985" />
+    <state x="408" y="61" width="604" height="725" key="find.popup/0.25.1440.796@0.25.1440.796" timestamp="1605338262214" />
+    <state x="408" y="61" width="604" height="726" key="find.popup/0.25.1440.798@0.25.1440.798" timestamp="1605334601484" />
+    <state x="408" y="61" width="604" height="731" key="find.popup/0.25.1440.803@0.25.1440.803" timestamp="1605336562095" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1605168236556">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.23.1440.809@0.23.1440.809" timestamp="1605168236556" />
-    <state x="375" y="156" width="670" height="667" key="search.everywhere.popup" timestamp="1605331872024">
-      <screen x="0" y="25" width="1440" height="798" />
+    <state x="375" y="156" width="670" height="666" key="search.everywhere.popup" timestamp="1605337906426">
+      <screen x="0" y="25" width="1440" height="796" />
     </state>
     <state x="375" y="156" width="670" height="676" key="search.everywhere.popup/0.23.1440.809@0.23.1440.809" timestamp="1605246097031" />
-    <state x="375" y="156" width="670" height="667" key="search.everywhere.popup/0.25.1440.798@0.25.1440.798" timestamp="1605331872024" />
+    <state x="375" y="156" width="670" height="666" key="search.everywhere.popup/0.25.1440.796@0.25.1440.796" timestamp="1605337906426" />
+    <state x="375" y="156" width="670" height="667" key="search.everywhere.popup/0.25.1440.798@0.25.1440.798" timestamp="1605337766150" />
+    <state x="375" y="156" width="670" height="669" key="search.everywhere.popup/0.25.1440.800@0.25.1440.800" timestamp="1605337520753" />
+    <state x="375" y="156" width="670" height="672" key="search.everywhere.popup/0.25.1440.803@0.25.1440.803" timestamp="1605337436416" />
   </component>
 </project>
